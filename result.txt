@@ -1,0 +1,4 @@
+baseline:
+Accuracy on the test dataset: 69.22%
+moco-pretrain:
+Accuracy on the test dataset: 64.53%
